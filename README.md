@@ -1,7 +1,7 @@
 # Antonio Pignataro
 
 Software developer from Brazil with 2+ years of experience in C# (.NET) and PL/SQL (Oracle),
-working on both the front end and back end of the IFS ERP for ~30 domestic and international clients.
+working on both the front end and back end of the ERP for ~30 domestic and international clients.
 Today I also build complete products with AI coding agents: I own the requirements, architecture and
 validation, and orchestrate the implementation.
 
