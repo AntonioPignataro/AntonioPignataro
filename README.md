@@ -25,6 +25,8 @@ so no secrets ship in the app. Personal project built with Claude Code (Flutter,
 
 <a href="https://github.com/AntonioPignataro/walkie"><img src="https://raw.githubusercontent.com/AntonioPignataro/walkie/main/docs/media/push-to-talk.gif" alt="Walkie push-to-talk demo" width="240"></a>
 
+More projects and utilities in [all repositories](https://github.com/AntonioPignataro?tab=repositories).
+
 ## How I work with AI
 I treat AI agents as my implementation team: I write the specs and project context,
 orchestrate subagents, and validate every delivery. Each project README explains how it was built.
